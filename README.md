@@ -1,1 +1,1 @@
-# econometria-aplicada
+# Econometria Aplicada
